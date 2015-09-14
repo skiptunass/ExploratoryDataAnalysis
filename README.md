@@ -1,2 +1,2 @@
 # ExploratoryDataAnalysis
-HtHub for exploratory Data Analysis
+GitHub for exploratory Data Analysis
